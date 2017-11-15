@@ -1,0 +1,23 @@
+html{
+  background: url(https://i.ytimg.com/vi/RXmfcSwlBLI/maxresdefault.jpg);
+  background-size: 750px;
+}
+h1{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.imga{
+  padding-left: 350px;
+}
+.text{
+  font-size: 35px;
+  color: white;
+  font-style: italic;
+  text-align: center;
+}
+.me{
+  font-size: 35px;
+  color: red;
+  text-align: center;
+}
