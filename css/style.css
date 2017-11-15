@@ -10,14 +10,22 @@ h1{
 .imga{
   padding-left: 350px;
 }
-.text{
+.c1{
   font-size: 35px;
   color: white;
   font-style: italic;
   text-align: center;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  border: 2 px solid green;
+  background-color: red;
 }
-.me{
+.c2{
   font-size: 35px;
   color: red;
   text-align: center;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  border: 2 px solid green;
+  background-color: blue;
 }
